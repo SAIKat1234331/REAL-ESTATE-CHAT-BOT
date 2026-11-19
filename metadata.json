@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Estates",
+  "description": "A modern international real estate marketplace for residential and commercial property discovery, new developments, verified professionals, and structured enquiry management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
